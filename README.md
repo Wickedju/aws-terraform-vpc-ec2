@@ -77,7 +77,7 @@ Em contas novas, a `t3.micro` costuma estar coberta pelo free tier ou por crédi
 
 Após o `terraform apply`, o nginx responde publicamente na porta 80:
 
-![Página do nginx]<img width="864" height="157" alt="image" src="https://github.com/user-attachments/assets/159b201e-5334-4488-aebd-951733922561" />
+<img width="864" height="157" alt="image" src="https://github.com/user-attachments/assets/159b201e-5334-4488-aebd-951733922561" />
 
 
 Testado com Terraform e AWS provider 5.x na região us-east-1. Recursos removidos
