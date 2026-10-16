@@ -1,0 +1,8 @@
+# Copie este arquivo para terraform.tfvars e preencha com os seus dados.
+# O terraform.tfvars esta no .gitignore e NAO deve ser commitado.
+
+# Seu IP publico + /32 (descubra com: curl ifconfig.me)
+my_ip_cidr = "203.0.113.10/32"
+
+# Conteudo do arquivo ~/.ssh/id_ed25519.pub
+ssh_public_key = "ssh-ed25519 AAAA... seu-email@exemplo.com"
